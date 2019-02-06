@@ -5,9 +5,9 @@ public class Main {
         System.out.println(myLinkedList.size());
         System.out.println(myLinkedList.get(5));
 
-        myLinkedList.add("A");
-        myLinkedList.add("B");
-        myLinkedList.add("C");
+        myLinkedList.add("Aravind");
+        myLinkedList.add("Gil");
+        myLinkedList.add("Raja");
         System.out.println(myLinkedList.size());
 
         System.out.println(myLinkedList.get(2));

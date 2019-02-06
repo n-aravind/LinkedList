@@ -50,7 +50,7 @@ public class MyLinkedList {
 
             do{
                 if (i == j){
-                    return last.getValue();
+                    return "Value at the given index is " + last.getValue();
                 }
                 last = last.getReference();
                 j++;
