@@ -11,3 +11,5 @@ MyLinkedList should provide the following methods
 - **get** to get the String from the cell at the given index. If the list is empty then return null
 
 - **size** to return the number of cells in the list.
+
+- **delete** to delete a node at given index
